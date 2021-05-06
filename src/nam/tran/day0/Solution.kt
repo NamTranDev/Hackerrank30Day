@@ -38,18 +38,15 @@ package nam.tran.day0
 
 import java.util.*
 
-object Solution {
-    @JvmStatic
-    fun main(args: Array<String>) {
-        // open scanner
-        val scan = Scanner(System.`in`)
+fun main(args: Array<String>) {
+    // open scanner
+    val scan = Scanner(System.`in`)
 
-        var result = "Hello, World.\n"
+    var result = "Hello, World.\n"
 
-        result += scan.nextLine()
+    result += scan.nextLine()
 
-        scan.close() // close scanner
+    scan.close() // close scanner
 
-        println(result) // print 's' to System.out, followed by a new line
-    }
+    println(result) // print 's' to System.out, followed by a new line
 }
