@@ -1,6 +1,6 @@
 /*
     Objective
-    Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!
+    Today, we're discussing data types
 
     Task
     Complete the code in the editor below. The variables , , and  are already declared and initialized for you. You must:
@@ -43,7 +43,7 @@
 
     You will not pass this challenge if you attempt to assign the Sample Case values to your variables instead of following the instructions above and reading
     input from stdin.
-**/
+*/
 
 package nam.tran.day1;
 
